@@ -1,6 +1,6 @@
 # README
 
-## INSTALLATION AND CONFIGURATION RABBITMQ SERVER
+## Installation and configuration rabbitmq server
 
 * From the system packages
 ```
